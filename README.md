@@ -10,7 +10,7 @@ sh firstinstall.sh
 ```
 3. To start the web app run.
 ```
-sh ruanpp.sh
+sh runapp.sh
 ```
 4. The sh script takes care of the installation and activation
 5. The default port  for accessing the frontend by which the app can be accessed is http://localhost:3000
